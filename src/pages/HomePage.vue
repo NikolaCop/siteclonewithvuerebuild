@@ -55,6 +55,7 @@
         <h6 class="text-white">
           RECENT NEWS
         </h6>
+        <img src="https://singervehicledesign.com/wp-content/uploads/2020/01/Screen-Shot-2020-03-04-at-2.46.21-PM-330x190.png" alt="">
       </div>
     </div>
     <!-- Footer Area -->
