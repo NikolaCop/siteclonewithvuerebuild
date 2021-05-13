@@ -39,11 +39,22 @@
       </div>
     </div>
     <!-- News Section -->
-    <div class="row">
+    <div class="row bg-dark">
+      <div class="col-6 text-center">
+        <h6 id="text">
+          RESTORED.
+        </h6>
+        <h6 id="text">
+          REIMAGINED.
+        </h6>
+        <h6 id="text">
+          REBORN.
+        </h6>
+      </div>
       <div class="col-6">
-        <h3>RESTORED.</h3>
-        <h3>REIMAGINED.</h3>
-        <h3>REBORN.</h3>
+        <h6 class="text-white">
+          RECENT NEWS
+        </h6>
       </div>
     </div>
     <!-- Footer Area -->
@@ -83,6 +94,9 @@ export default {
   }
   #row1{
     height: 700px;
+  }
+  #text{
+    color: rgb(164, 227, 243);
   }
 }
 
