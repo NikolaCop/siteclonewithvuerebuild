@@ -39,7 +39,13 @@
       </div>
     </div>
     <!-- News Section -->
-    <div class="row"></div>
+    <div class="row">
+      <div class="col-6">
+        <h3>RESTORED.</h3>
+        <h3>REIMAGINED.</h3>
+        <h3>REBORN.</h3>
+      </div>
+    </div>
     <!-- Footer Area -->
     <div class="row"></div>
   </div>
